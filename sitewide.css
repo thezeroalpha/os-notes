@@ -17,6 +17,7 @@ h1, h2, h3 {
 	padding: 0px;
 	font-weight: 300;
 	text-align: center;
+	line-height: 1.5em;
 }
 h3 {
 	font-style: italic;
